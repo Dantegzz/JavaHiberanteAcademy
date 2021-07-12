@@ -14,6 +14,8 @@ The Java Project helps you Manage Reservations for specific clients in a desired
 * Java SDK version 8
 * Maven
 * Hibernate
+* Postgresql
+* Omni DB
 * Spring
 * Swagger
 * Docker
