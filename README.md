@@ -1,4 +1,4 @@
-# Java SE Testing Course
+# Java Hibernate Course
 
 The porpuse of this repo is to make a show case of projects worked through this Java Hibernate & Spring course.
 
